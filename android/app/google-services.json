@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "170728018118",
+    "project_id": "flicky-df285",
+    "storage_bucket": "flicky-df285.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170728018118:android:35c230f2b494346fec87c7",
+        "android_client_info": {
+          "package_name": "com.example.flicky"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUXCfKcSpRjujmormlFdOn1QAC0TvSQgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
